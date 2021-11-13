@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**bernardojru/bernardojru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Desenvolvendo com front-end
+- 🌱 Estudando JavaScript e python
+- 📫 </>
+<html>
+  <p></p>
+  <p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="" height="50" width="50">
+  <img src="https://engenharia360.com/wp-content/uploads/2019/04/python-engenharia360-3-1024x512.png" height="50" width="100">
+  </p>
+</html>
+ 
