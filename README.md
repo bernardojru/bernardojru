@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Desenvolvendo com front-end
-- 🌱 Estudando JavaScript, python e o famoso back-end.
+- 🌱 <learning>Estudando JavaScript, python e o famoso back-end. </learning>
 - 📫 </>
 <html>
 
