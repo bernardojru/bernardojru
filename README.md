@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Learning : JavaScript, React e o famoso back-end. </learning> </>
+ Learning : JavaScript, React e o NodeJs. </learning> </>
  
 <div style=" display: flex;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" width = "3%" height ="4%" style="border-radius: 50%;">
