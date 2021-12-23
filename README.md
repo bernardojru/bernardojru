@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <p>Learning : JavaScript, React e o NodeJs.</> </p>
  
 <div style=" display: flex;">
