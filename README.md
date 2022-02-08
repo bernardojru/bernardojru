@@ -1,4 +1,4 @@
-<h1>### Hi there 👋</h1>
+
 <h1>Conexões:</h1>
 <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA"><img src="https://cdn-icons-png.flaticon.com/512/6681/6681009.png" height="30px" width="30px" ></a>
 
