@@ -1,12 +1,9 @@
 
-<h1>Conexões:</h1>
-
 <div style="display:flex;">
  <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA"><img src="https://cdn-icons-png.flaticon.com/512/6681/6681009.png" height="30px" width="30px" ></a>
 </div>
 
-
-<h1>Skills:</h1>
+<h5>Skills:</h5>
  
 <div style=" display: flex;">
  <img src="https://www.fullstackclub.com.br/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fjavascript-icon.89946d38c90644a1f96d27290f426d59.svg&w=32&q=75" height="20px" width="20px" >
