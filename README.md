@@ -1,7 +1,7 @@
 
 <div style="display:flex;">
- <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/185/185983.png" height="25px" width="25px"></a>
- <a href="https://www.instagram.com/bernardoon1/"><img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494488.png?token=exp=1644680089~hmac=0fc32ab7b00f2c944f6af6f1346963e0" height="25px" width="25px" ></a>
+ <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/185/185983.png" height="20px" width="20px"></a>
+ <a href="https://www.instagram.com/bernardoon1/"><img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494488.png?token=exp=1644680089~hmac=0fc32ab7b00f2c944f6af6f1346963e0" height="20px" width="20px" ></a>
 </div>
 
 <h3>💻 &nbsp;Skills:</h3>
