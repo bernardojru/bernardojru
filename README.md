@@ -6,7 +6,7 @@
 <br>
 <p>Apaixonado por programção.</p>
 
-<h3>💻 &nbsp;Skills:</h3>
+<h3>💻 &nbsp;Habilidades:</h3>
  <br>
 <div style=" display: flex;">
  <img src="https://www.fullstackclub.com.br/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fjavascript-icon.89946d38c90644a1f96d27290f426d59.svg&w=32&q=75" height="20px" width="20px" >
