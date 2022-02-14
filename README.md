@@ -5,7 +5,7 @@
  <a href="https://www.instagram.com/bernardoon1/"><img src="https://cdn-icons.flaticon.com/png/512/5949/premium/5949033.png?token=exp=1644876014~hmac=3fa63b3f24241e194a3686240b69a2f8" height="18px" width="18px" ></a>
 </div>
 <br>
-<p>Apaixonado por programção.</p>
+<p>I love programming.</p>
 
 <h3>💻 &nbsp;Habilidades:</h3>
  <br>
