@@ -1,4 +1,4 @@
- # programming.
+ # full stack developer.
  
 <div style="display:flex;">
  <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank"><img src="https://cdn-icons.flaticon.com/png/512/4121/premium/4121467.png?token=exp=1644876117~hmac=106e892d68a27ff9d2696bd4521c43b7" height="20px" width="20px"></a>
