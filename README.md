@@ -1,8 +1,8 @@
  # full stack developer.
  
 <div style="display:flex;">
- <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank"><img src="https://cdn-icons.flaticon.com/png/512/4121/premium/4121467.png?token=exp=1644876117~hmac=106e892d68a27ff9d2696bd4521c43b7" height="20px" width="20px"></a>
- <a href="https://www.instagram.com/bernardoon1/"><img src="https://cdn-icons.flaticon.com/png/512/5949/premium/5949033.png?token=exp=1644876014~hmac=3fa63b3f24241e194a3686240b69a2f8" height="18px" width="18px" ></a>
+ <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384169.png" height="20px" width="20px"></a>
+ <a href="https://www.instagram.com/bernardoon1/"><img src="https://cdn-icons.flaticon.com/png/512/5949/premium/5949033.png?token=exp=1646245891~hmac=cbc3c51efb70c72f92a6454e6e1ccdb9" height="18px" width="18px" ></a>
 </div>
 <br>
 <p>I love programming.</p>
