@@ -1,5 +1,5 @@
  # full stack developer.
- 
+ <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>-->
 <div style="display:flex;">
  <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384169.png" height="20px" width="20px"></a>
  <a href="https://www.instagram.com/bernardoon1/"><img src="https://cdn-icons-png.flaticon.com/512/747/747976.png" height="18px" width="18px" ></a>
