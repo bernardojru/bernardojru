@@ -1,8 +1,8 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/bernardojru/dec3c3d83ec2b94188bc581d9858db39/raw/7e88b5ec6a4546f54a72b1753f65eafdc057ab28/githubcard.svg"/>
 <h1> # full stack developer.</h1>
 <div style="display:flex;">
- <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384169.png" height="20px" width="20px"></a>
- <a href="https://www.instagram.com/bernardoon1/"><img src="https://cdn-icons-png.flaticon.com/512/747/747976.png" height="18px" width="18px" ></a>
+ <p>. ▶️ My videos <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank">youtube.com</a></p>
+ <p>. 💬 Ask me in the <a href="https://www.instagram.com/bernardoon1/">instagram</a></p>
 </div>
 <br>
 <p>I love programming.</p>
