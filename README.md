@@ -1,5 +1,5 @@
-<img align="right" height="590em" width="370" 
-src="https://raw.githubusercontent.com/gist/bernardojru/e2f83d545c00fc0ac8e53b269afeaedc/raw/91e5b8c6858a2e09909bdad1c0dad3e0a79ab2a1/githubNewcard.svg"/>
+<!--<img align="right" height="590em" width="370" 
+src="https://raw.githubusercontent.com/gist/bernardojru/e2f83d545c00fc0ac8e53b269afeaedc/raw/91e5b8c6858a2e09909bdad1c0dad3e0a79ab2a1/githubNewcard.svg"/>-->
 <h1> # full stack developer.</h1>
 <div style="display:flex;">
  <p>. ▶️ My videos <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank">youtube.com</a></p>
