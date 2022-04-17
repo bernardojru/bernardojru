@@ -6,7 +6,7 @@ src="https://raw.githubusercontent.com/gist/bernardojru/e2f83d545c00fc0ac8e53b26
  <p>. 💬 Ask me in the <a href="https://www.instagram.com/bernardoon1/">instagram</a></p>
 </div>
 <br>
-<p>I love programming 💚, basketball. Learning Reactjs & Nodejs</p>
+<p>I love programming 💚, basketball 🔥. Learning Reactjs & Nodejs 🧑‍💻</p>
 
 <h3>💻 &nbsp;My Skills:</h3>
  <br>
