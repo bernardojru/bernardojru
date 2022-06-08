@@ -5,11 +5,10 @@ src="https://raw.githubusercontent.com/gist/bernardojru/e2f83d545c00fc0ac8e53b26
  <p>. ▶️ My videos <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank">youtube.com</a></p>
  <p>. 💬 Ask me in the <a href="https://www.linkedin.com/in/bernardo-jos%C3%A9-aa2159225/">linkedin</a></p>
 </div>
-<br>
 <p>I love programming 💚, basketball 🏀. Learning Reactjs & Nodejs 🧑‍💻</p>
 
 <h4>💻 &nbsp;My Skills:</h4>
- <br>
+
 <div style=" display: flex;">
  <img src="https://camo.githubusercontent.com/26a2d44d15ce047495fe82e6f07d5546a18d229326c87837ace066d930ee7385/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35">
  <img src="https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236">
