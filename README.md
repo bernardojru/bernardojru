@@ -1,6 +1,6 @@
 <!--<img align="right" height="590em" width="370" 
 src="https://raw.githubusercontent.com/gist/bernardojru/e2f83d545c00fc0ac8e53b269afeaedc/raw/91e5b8c6858a2e09909bdad1c0dad3e0a79ab2a1/githubNewcard.svg"/>-->
-<h1> # full stack developer.</h1>
+<h3> Hi, I'm Bernardo <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="width: 30px; display: block; opacity: 1;"> </h3>
 <div style="display:flex;">
  <p>. ▶️ My videos <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank">youtube.com</a></p>
  <p>. 💬 Ask me in the <a href="https://www.linkedin.com/in/bernardo-jos%C3%A9-aa2159225/">linkedin</a></p>
@@ -8,7 +8,7 @@ src="https://raw.githubusercontent.com/gist/bernardojru/e2f83d545c00fc0ac8e53b26
 <br>
 <p>I love programming 💚, basketball 🏀. Learning Reactjs & Nodejs 🧑‍💻</p>
 
-<h3>💻 &nbsp;My Skills:</h3>
+<h4>💻 &nbsp;My Skills:</h4>
  <br>
 <div style=" display: flex;">
  <img src="https://camo.githubusercontent.com/26a2d44d15ce047495fe82e6f07d5546a18d229326c87837ace066d930ee7385/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35">
