@@ -3,8 +3,9 @@ src="https://raw.githubusercontent.com/gist/bernardojru/e2f83d545c00fc0ac8e53b26
 <h1> Hi, I'm Bernardo 👋 </h1>
 <div style="display:flex;">
  <p>. ▶️ My videos <a href="https://www.youtube.com/channel/UCkWrB6zNY4pHYOIKSDpUEKA" target="blank">youtube.com</a></p>
- <p>. 💬 Ask me in the <a href="https://www.linkedin.com/in/bernardo-jos%C3%A9-aa2159225/">linkedin</a></p>
- <p>. 👨‍💻 This is my website <a href="#">berDev</a></p>
+ <
+p>. 💬 Ask me in the <a href="https://www.linkedin.com/in/bernardo-jos%C3%A9-aa2159225/">linkedin</a></p>
+ <p>. 👨‍💻 This is my website <a href="https://ber-dev-bernardojru.vercel.app/">berDev</a></p>
  
 </div>
 <p>I love programming 💚, basketball 🏀. Learning Reactjs & Nodejs 🧑‍💻</p>
