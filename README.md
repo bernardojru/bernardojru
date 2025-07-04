@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/gist/bernardojru/e2f83d545c00fc0ac8e53b26
 
 ## 🚀 About Me
 
-- 🎥 I teach web dev on my **[YouTube](www.youtube.com/@xbernardoc)**
+- 🎥 I teach web dev on my **[YouTube](https://www.youtube.com/@xbernardoc/videos)**
 - 🤝 Connect with Me **[Linkedin](https://www.linkedin.com/in/bernardo-josé-aa2159225/)**  
 - 💻 Building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase** 
 
