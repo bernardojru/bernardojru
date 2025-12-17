@@ -1,5 +1,3 @@
-<p> Founder @XenoCompany</p>
-
 ## 🚀 About Me
 
 - 💼 Founder @Xeno Company
